@@ -1,0 +1,32 @@
+Month 1: Strengthen Core Java (Must-Have for Any Developer)
+Topics to master
+
+OOP (inheritance, polymorphism, encapsulation, abstraction)
+
+Collections Framework (List, Set, Map, Queue)
+
+Generics & Enums
+
+Exception Handling
+
+Java I/O & NIO
+
+Java 8+ features:
+
+Streams
+
+Lambda expressions
+
+Functional Interfaces
+
+Multithreading & Concurrency (ExecutorService, Future, CompletableFuture)
+
+Practice
+
+Solve 2–3 problems/day on HackerRank / LeetCode (Easy → Medium)
+
+Small projects:
+
+Employee Management System (CRUD)
+
+Library or Billing System
